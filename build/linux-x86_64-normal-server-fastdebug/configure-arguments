@@ -1,0 +1,1 @@
+--with-boot-jdk=/home/wavin/OpenJDK-1.8.0.141-x86_64-bin --enable-debug --enable-debug-symbols --disable-zip-debug-info --with-target-bits=64
